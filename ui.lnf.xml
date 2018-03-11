@@ -1,10 +1,7 @@
 <application>
   <component name="UISettings">
-    <option name="FONT_FACE" value="Roboto Regular" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
+    <option name="MAX_LOOKUP_WIDTH2" value="787" />
     <option name="SHOW_MAIN_TOOLBAR" value="true" />
-    <option name="SHOW_MEMORY_INDICATOR" value="true" />
-    <option name="smoothScrolling" value="true" />
-    <option name="USE_SMALL_LABELS_ON_TABS" value="true" />
   </component>
 </application>

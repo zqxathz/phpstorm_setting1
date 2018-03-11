@@ -1,10 +1,5 @@
 <application>
-  <component name="GeneralSettings">
-    <option name="autoSaveIfInactive" value="true" />
-  </component>
   <component name="Registry">
-    <entry key="bigger.font.in.project.view" value="true" />
-    <entry key="ide.tooltip.initialDelay" value="593" />
-    <entry key="debugger.watches.in.variables" value="false" />
+    <entry key="dumb.aware.run.configurations" value="true" />
   </component>
 </application>

@@ -1,0 +1,15 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="a657f606-edd2-46c8-b58a-a0cbd1e02dcf" name="pullcity" url="http://localhost/pullcity">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="70b8cf56-f6f0-4a71-b08f-e73f88597587" name="localhost" url="http://localhost">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="3a26ff90-e46c-4202-a1f1-3b537213205b" name="tops_81_Travellers" url="http://localhost/tops_81_Travellers">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
